@@ -1,3 +1,3 @@
 <?php
-    echo"Hello World";
+    // "Hello World, this is index.php";
 ?>
